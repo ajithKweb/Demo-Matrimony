@@ -1,0 +1,7 @@
+{
+  "name": "matrimony-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
